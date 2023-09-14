@@ -1,4 +1,4 @@
-# memoteca
+# Crud Memoteca
 Projeto utilizado para estudo de Angular 14: aplique os conceitos e desenvolva seu primeiro CRUD
 
 Curso foi feito na plataforma [Alura](https://cursos.alura.com.br/course/angular-explorando-framework?preRequirementFrom=angular-evoluindo-aplicacao).
