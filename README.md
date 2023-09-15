@@ -1,27 +1,86 @@
 # Memoteca
+Projeto utilizado para estudo de Angular 14: aplique os conceitos e desenvolva seu primeiro CRUD
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
+Curso foi feito na plataforma [Alura](https://cursos.alura.com.br/course/angular-explorando-framework?preRequirementFrom=angular-evoluindo-aplicacao).
+Veja todos os tópicos e cada modulo apresentado no curso.
 
-## Development server
+# Tópicos
+- Utilize a ferramenta Angular CLI para criar um projeto e diversos tipos de arquivos
+- Entenda a estrutura de um componente em Angular
+- Aprenda como usar property binding, interpolação, event binding e two-way data binding
+- Conheça algumas das principais diretivas do Angular
+- Adicione navegação dinâmica entre componentes através das rotas
+- Aplique injeção de dependências na aplicação
+- Realize requisições HTTP através da classe HttpClient e desenvolva um CRUD
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+# Aulas
 
-## Code scaffolding
+## Conhecendo o Angular
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Apresentação
+- Preparando o ambiente
+- Criando a aplicação
+- Criando um novo componente
+- Desafio: criando um novo componente
 
-## Build
+## Entendendo o fluxo de dados
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- Criando o formulário
+- Property Binding
+- Conhecendo Property Binding
+- Event Binding
+- Two-way Data Binding
+- Mais alguns tipos de Bindings
 
-## Running unit tests
+## Navegação com roteamento
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- Navegação dinâmica
+- Configuração de rotas
+- RouterLink
+- Módulo de rotas
 
-## Running end-to-end tests
+## Diretivas
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+- NgFor
+- Comunicação entre os componentes
+- *NgIf
+- NgClass
+- Outras Diretivas
 
-## Further help
+## Comunicação com Backend
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- JSON Server
+- Interfaces
+- Services
+- Injeção de dependências
+- Injetando serviços
+
+## Requisições HTTP
+
+- HttpClient
+- Observables
+- Observable
+- Componente Excluir
+- Componente Editar
+- Requisições com HttpClient
+- Projeto final do curso
+
+# Configuração de desenvolvimento
+
+### Pré-requisitos
+Instale o Node.js que inclui o Node Package Manager
+
+Instale o Angular CLI globalmente:
+
+``npm install -g @angular/cli``
+
+Execute o comando abaixo para subir o aplicativo
+
+``ng serve ``
+
+Para visualizar a tela acesse http://localhost:4200/
+
+# Usando API
+Execute o comando abaixo:
+
+``npm install && npm start``
