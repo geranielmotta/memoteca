@@ -81,6 +81,8 @@ Execute o comando abaixo para subir o aplicativo
 Para visualizar a tela acesse http://localhost:4200/
 
 # Usando API
-Execute o comando abaixo:
+Execute os comandos abaixo:
+
+``cd backend``
 
 ``npm install && npm start``
