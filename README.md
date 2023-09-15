@@ -76,7 +76,7 @@ Instale o Angular CLI globalmente:
 
 Execute o comando abaixo para subir o aplicativo
 
-``ng serve ``
+``npm install && ng serve ``
 
 Para visualizar a tela acesse http://localhost:4200/
 
